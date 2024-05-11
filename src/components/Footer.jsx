@@ -85,7 +85,9 @@ const Footer = () => {
         <div className="hidden sm:block">
           <div className="flex justify-between items-center text-center py-6 border-t-2 border-gray-300/40">
             <span className="text-sm text-gray-400">
-              @copyright 2024 Travery || Dilshad
+             <p> 2024 coded by
+        <a href="https://islam-elwany.vercel.app/" target="_blank"
+          >Islam Elwany</a>
             </span>
             <div className="flex items-center justify-center gap-4 mb-4">
               <a href="#">
